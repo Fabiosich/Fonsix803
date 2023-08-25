@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fábio Ferreira</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-- 🔭 I’m currently working on [WebBlog](https://github.com/Fonsix803/Python-Flask-WebBlog)
+- 🔭 I’m currently working on a [WebBlog](https://github.com/Fonsix803/Python-Flask-WebBlog)
 
 - 🌱 I’m currently learning **Python. Flasl, Django, Java, Spring, JavaScript;**
 
