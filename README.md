@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Fábio Ferreira</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-- 🔭 I’m currently working on a [WebBlog](https://github.com/Fonsix803/Python-Flask-WebBlog)
+- 🔭 I’m currently working on a [WebBlog](https://github.com/Fonsix803/Python-Flask-WebBlog).
 
-- 🌱 I’m currently learning **Python. Flasl, Django, Java, Spring, JavaScript;**
+- 🌱 I’m currently learning **Python. Flasl, Django, Java, Spring, JavaScript**.
 
-- 👯 I’m looking to collaborate on **Software Development**
+- 👯 I’m looking to collaborate on **Software Development**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Fonsix803?tab=repositories](https://github.com/Fonsix803?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/Fonsix803?tab=repositories](https://github.com/Fonsix803?tab=repositories).
 
-- 📫 How to reach me **ferreira.fabiojdk@gmail.com**
+- 📫 How to reach me **ferreira.fabiojdk@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
