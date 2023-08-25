@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a [WebBlog](https://github.com/Fonsix803/Python-Flask-WebBlog).
 
-- 🌱 I’m currently learning **Python. Flasl, Django, Java, Spring, JavaScript**.
+- 🌱 I’m currently learning **Python. Flask, Django, Java, Spring, JavaScript**.
 
 - 👯 I’m looking to collaborate on **Software Development**.
 
