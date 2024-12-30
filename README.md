@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on a [WebBlog](https://github.com/Fonsix803/Python-Flask-WebBlog).
 
-- 🌱 I’m currently learning **Python. Flask, Django, Java, Spring, JavaScript**.
+- 🌱 I’m currently learning **REACT, JavaScript**.
 
-- 👯 I’m looking to collaborate on **Software Development**.
+- 👯 I’m looking to collaborate on **Web Development**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Fonsix803?tab=repositories](https://github.com/Fonsix803?tab=repositories).
 
